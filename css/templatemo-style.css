@@ -401,7 +401,10 @@ http://www.templatemo.com/tm-515-eatery
     background-size: cover;
     height: 650px;
   }
-
+  .fa-phone 
+  {color:#f70f0f! Important;}
+  .fa-envelope-o 
+  {color:#3a0ff7! Important;}
   .slider .item-first {
     background-image: url(../images/logo.png);
   }
